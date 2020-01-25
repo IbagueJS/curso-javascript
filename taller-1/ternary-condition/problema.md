@@ -1,6 +1,8 @@
 # Operador ternario
 
-El operador ternario nos va a permitir hacer una operación if else de una manera muy sencilla utilizando una sola linea de código, este operador está compuesto por tres partes
+El operador ternario nos va a permitir hacer una operación if else de una manera
+muy sencilla utilizando una sola linea de código, este operador está compuesto
+por tres partes
 
 Definición
 
@@ -41,18 +43,14 @@ var numberLiteral = a == 5 ? 'Five' :
 console.log( numberLiteral );
 ```
 
-_Nota: No es recomendable tener más de 2 expresiones anidadas en un mismo operador ternario, ya que la lectura y el mantenimiento de este tipo de expresiones puede volverse complejo._
+_Nota: No es recomendable tener más de 2 expresiones anidadas en un mismo
+operador ternario, ya que la lectura y el mantenimiento de este tipo de
+expresiones puede volverse complejo._
 
 ## Ejercicio
+Crea una variable llamada `numero` y otra `esPar`.
 
-Crea un archivo llamado `ternario.js`
-
-En ese archivo crea una variable llamada `numero` y otra `esPar`.
-
-**Haciendo uso del operador ternario asigna en la variable `esPar`, `verdadero` (_true_) si `numero` es par o `falso` (_false_) si no lo es.**
+**Haciendo uso del operador ternario asigna en la variable `esPar`, `verdadero`
+(_true_) si `numero` es par o `falso` (_false_) si no lo es.**
 
 Luego usa `console.log()` para imprimir la variable `esPar` a la consola.
-
-Comprueba si tu programa es correcto ejecutando el siguiente comando:
-
-`javascripting verify ternario.js`
