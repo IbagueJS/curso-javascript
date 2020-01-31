@@ -1,3 +1,5 @@
+# Switch Case
+
 La declaración `switch` es un bloque condicional que permite evaluar diferentes
 condiciones basadas en el valor de una variable otorgándole a cada condición un
 comportamiento diferente. Esta declaración puede reemplazar múltiples
@@ -40,7 +42,7 @@ Cabe resaltar que las expresiones usadas en la comparaciones pueden ser cadenas
 de caracteres o números, sin embargo **No** se pueden evaluar distintos tipos de
 datos en un mismo bloque `switch`.
 
-## El ejercicio
+## Ejercicio
 Declara una variable llamada `day`.
 
 Haz que la variable `day` tenga como valor **6**.

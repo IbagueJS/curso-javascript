@@ -1,3 +1,5 @@
+# Variables
+
 Una variable es una referencia a un valor. Podemos usar variables para representar cualquier valor del mundo real, agunos ejemplos de variables son:
 ``` 
 color
@@ -40,3 +42,6 @@ let velocidadMaxima
 Nota que empieza con la palabra reservada `let` y usa el signo de igualdad entre en nombre de la variable y el valor que referencia. También podemos usar las palabra `var`, `const` inclusive no usar ninguna de ellas, en cada uno de los casos nuestra variable tendrá un comportamiento diferente.
 
 
+## Ejercicio
+
+TBD

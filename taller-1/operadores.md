@@ -1,6 +1,4 @@
----
-
-# OPERADORES
+# Operadores
 
 Un operador es un elemento que define una operación a realizar sobre una variable, un valor o varios de ellos. Hay diferentes tipos, unos mayormente usados que otros, veamoslos.
 
@@ -230,4 +228,6 @@ var resultadoLogico = ( var1 > var2 || var2 >= 5 ) && !( var1 == 3 || var2 != 8 
 Mas adelante podremos profundizar en otros operadores y algunos `trucos` al usar operadores.
 
 
+## Ejercicio
 
+TBD

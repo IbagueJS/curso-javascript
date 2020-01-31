@@ -1,4 +1,4 @@
-# WORKSHOP 1 - Introducción a Javascript (Nivel básico)
+# Taller 1 - Introducción a Javascript
 
 Si quieres ser un/una JavaScript Developer pero no sabes por dónde empezar, este espacio te ayudará a comenzar. Este taller cubre los aspectos más importantes de JavaScript.
 
@@ -6,13 +6,15 @@ Si quieres ser un/una JavaScript Developer pero no sabes por dónde empezar, est
 
 Esta serie de Workshops de JavaScript tendrán Seis sesiones, en esta primera ocasión conoceremos sobre:
 
-Introducción a JavaScript
-- Variables
-- Operadores
-- Tipos de datos
-- EventosCondicionales
-- Ternary condition
-- Switch case
+- Introducción a JavaScript
+  - [Variables](variables.md)
+  - [Operadores](operadores.md)
+  - [Tipos de datos](tipos-de-datos.md)
+  - [Eventos](eventos.md)
+- Condicionales
+  - [If Else](if-else.md)
+  - [Condicion ternaria](ternary-condition.md)
+  - [Switch case](switch-case.md)
 
 Conocimientos previos:
 - Ninguno
@@ -23,7 +25,7 @@ Requisitos técnicos:
 - Editor de código (Visual studio code, Sublime Text u otro)
 - Muchas ganas de ser un gran JavaScriptero
 
-# Para comenzar
+## Para comenzar
 Para los primeros ejercicios de JavaScript que realizaremos solo necesitas abrir tu navegador de preferencia (Google Chrome, Mozilla firefox u otro ) y ejecutar la herramienta para desarrolladores, para esto puedes probar presionando la tecla `F12` o la combinación de teclas `Ctrl + Mayús + i`, o buscarlo en el menú de opciones y herramientas.
 
 >En google Chrome:
@@ -34,7 +36,7 @@ Para los primeros ejercicios de JavaScript que realizaremos solo necesitas abrir
 
 Verás que hay diferentes opciones y herramientas, seguramente utilizarás varias de ellas en tu camino como JavaScriptero, por ahora nos interesa ir a la sección de `Consola`.
 
-## La consola 
+## La Consola de Desarrollo
 La consola es una herramientas que nos permite ejecutar `instrucciones` de JavaScript facilmente sin instalaciones ni programas adicionales, es muy útil para probar pequeños frágmentos de código y evaluar el estado de nuestras `variables` en un momento dado.
 
 Estando aquí ya puedes pasar a la sección de `variables`

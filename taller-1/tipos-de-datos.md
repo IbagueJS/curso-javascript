@@ -1,4 +1,6 @@
-Variables de JavaScript pueden contener muchos tipos de datos : números, cadenas, objetos y mucho más:
+# Tipos de Datos
+
+Las variables de JavaScript pueden contener muchos tipos de datos : números, cadenas, objetos y mucho más:
 
 ```js
 var length = 12;                               // Number
@@ -129,7 +131,7 @@ var t = "IbagueJS"
 t = null; 
 ```
 
-## El ejercicio
+## Ejercicio
 Use los comentarios para describir el tipo de datos correcto de las siguientes
 variables:
 

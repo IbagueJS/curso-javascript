@@ -1,3 +1,4 @@
+# If & Else
 Los bloques condicionales son utilizados, partiendo de una condición booleana
 específica, alterar el control de flujo de un programa.
 
@@ -21,7 +22,7 @@ sentencia lógica dentro de los paréntesis es falsa. Utilice la *else if*
 declaración para especificar una nueva condición si la primera condición es
 falsa.
 
-## El ejercicio
+## Ejercicio
 Declara una variabe llamada `fruit`.
 
 Haz la variable `fruit` referenciar a la cadena de caracteres **"orange"**.
