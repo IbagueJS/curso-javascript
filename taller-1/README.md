@@ -1,4 +1,4 @@
-# Taller 1 - Introducción a Javascript
+# Taller 1 - Introducción a JavaScript
 
 Si quieres ser un/una JavaScript Developer pero no sabes por dónde empezar, este espacio te ayudará a comenzar. Este taller cubre los aspectos más importantes de JavaScript.
 
@@ -8,8 +8,15 @@ Esta serie de Workshops de JavaScript tendrán Seis sesiones, en esta primera oc
 
 - Introducción a JavaScript
   - [Variables](variables.md)
+    - var
+    - let
+    - const
   - [Operadores](operadores.md)
   - [Tipos de datos](tipos-de-datos.md)
+    - String
+    - Number
+    - Object
+    - undefined
   - [Eventos](eventos.md)
 - Condicionales
   - [If Else](if-else.md)
