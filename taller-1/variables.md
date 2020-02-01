@@ -24,7 +24,7 @@ A continuación damos un ejemplo de cómo definir una variable, haciendo que ref
 const example = 'some string'
 ```
 
-Tienes la libertad de nombrar una variable a tu conveniencia, siguiendo dos reglas, la primera de forma obligatoria no puedes nombrar variables usando palabras reservadas del lenguaje Javascript, algunas palabras reservadas son:
+Tienes la libertad de nombrar una variable a tu conveniencia, siguiendo dos reglas, la primera de forma obligatoria no puedes nombrar variables usando palabras reservadas del lenguaje JavaScript, algunas palabras reservadas son:
 ```js
 const
 let

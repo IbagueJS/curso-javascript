@@ -23,9 +23,7 @@ declaración para especificar una nueva condición si la primera condición es
 falsa.
 
 ## Ejercicio
-Declara una variabe llamada `fruit`.
-
-Haz la variable `fruit` referenciar a la cadena de caracteres **"orange"**.
+Declara una variabe llamada `fruit`. Haz la variable `fruit` referenciar a la cadena de caracteres **"orange"**.
 
 Luego utiliza `console.log()` para imprimir a la terminal "**The fruit name has
 more than five characters."** si el length de la variable `fruit` es mayor a

@@ -6,13 +6,15 @@ por tres partes
 
 Definición
 
-a = Expresión a evaluar.
-b = Resultado si la condición se cumple.
-c = Resultado si la condición no se cumple.
+* a = Expresión a evaluar.
+* b = Resultado si la condición se cumple.
+* c = Resultado si la condición no se cumple.
 
-a ? b : c
+Siendo de la forma:
 
-### Ejemplo:
+`a ? b : c`
+
+Un ejemplo de uso seria:
 
 ```js
 let edad = 12;
@@ -20,7 +22,7 @@ let edad = 12;
 edad > 18 ? console.log('Puede Votar') : console.log('No puede votar')
 ```
 
-### Asignar el valor a una variable
+Se usa para asignar el valor a una variable
 
 ```js
 let edad = 12;
@@ -30,7 +32,7 @@ let puedeVotar = edad > 18 ? 'Puede Votar' : 'No puede votar'
 console.log(puedeVotar)
 ```
 
-### Es posible también anidar varias condiciones por medio de este operador:
+Es posible también anidar varias condiciones por medio de este operador:
 
 ```js
 var a = 11;
@@ -48,9 +50,5 @@ operador ternario, ya que la lectura y el mantenimiento de este tipo de
 expresiones puede volverse complejo._
 
 ## Ejercicio
-Crea una variable llamada `numero` y otra `esPar`.
-
-**Haciendo uso del operador ternario asigna en la variable `esPar`, `verdadero`
-(_true_) si `numero` es par o `falso` (_false_) si no lo es.**
-
-Luego usa `console.log()` para imprimir la variable `esPar` a la consola.
+Crea una variable llamada `numero` y otra `esPar`. Haciendo uso del operador ternario asigna en la variable `esPar`, `verdadero`
+(_true_) si `numero` es par o `falso` (_false_) si no lo es. Luego usa `console.log()` para imprimir la variable `esPar` a la consola.
