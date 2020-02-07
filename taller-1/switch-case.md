@@ -35,11 +35,13 @@ switch (documentType) {
     break;
 }
 ```
-Cabe resaltar que las expresiones usadas en la comparaciones pueden ser cadenas
+
+Cabe resaltar que las expresiones usadas en las comparaciones pueden ser cadenas
 de caracteres o números, sin embargo **No** se pueden evaluar distintos tipos de
 datos en un mismo bloque `switch`.
 
 ## Ejercicio
+
 Declara una variable llamada `day`. Haz que la variable `day` tenga como valor **6**.
 Luego declara un bloque `switch` para comparar que día de la semana es, donde
 **1** hace referencia al día **"Lunes"**. Dentro de cada bloque `case` utiliza
