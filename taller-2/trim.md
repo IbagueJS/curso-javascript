@@ -19,3 +19,7 @@ var str = "IbagueJs      ";
 var st = str.trim();
 console.log(st);
 ```
+
+**Ejercicio:**
+
+Genere una variable en la que almacene una contraseña (👀 no tu contraseña real, es solo un ejemplo), intencionalmente agrege algunos espacios en blanco al inicio y al final de la cadena, y haciendo uso de la funcion trim elimina dichos espacios en blanco, confirme que funciona imprimiendo el resultado en consola.
