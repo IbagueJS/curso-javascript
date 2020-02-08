@@ -5,7 +5,7 @@ La función str.trim() se utiliza para eliminar los espacios en blanco de ambos 
 **Sintaxis:**
 
 ```js
-str.trim ()
+str.trim();
 ```
 
 **Parámetros:** Esta función no toma ningún argumento.
@@ -15,11 +15,11 @@ str.trim ()
 **Ejemplo:**
 
 ```js
-var str = "IbagueJs      ";
+var str = "IbaguéJS      ";
 var st = str.trim();
 console.log(st);
 ```
 
-**Ejercicio:**
+# Ejercicio:
 
-Genere una variable en la que almacene una contraseña (👀 no tu contraseña real, es solo un ejemplo), intencionalmente agrege algunos espacios en blanco al inicio y al final de la cadena, y haciendo uso de la funcion trim elimina dichos espacios en blanco, confirme que funciona imprimiendo el resultado en consola.
+Genere una variable en la que almacene una contraseña (👀 no tu contraseña real, es solo un ejemplo), intencionalmente agregue algunos espacios en blanco al inicio y al final de la cadena, y haciendo uso de la función trim elimina dichos espacios en blanco, confirme que funciona imprimiendo el resultado en consola.

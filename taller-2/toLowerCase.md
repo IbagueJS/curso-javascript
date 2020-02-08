@@ -5,7 +5,7 @@ Esta función convierte toda la cadena en minúsculas. No afecta a ninguno de lo
 **Sintaxis:**
 
 ```js
-str.toLowerCase ()
+str.toLowerCase();
 ```
 
 **Parámetros:** Esta función no toma ningún argumento.
@@ -15,11 +15,11 @@ str.toLowerCase ()
 **Ejemplo:**
 
 ```js
-var cadena = 'HOY ES IBAGUEJS'; 
+var cadena = "HOY ES IBAGUEJS";
 var cadenaEnMinuscula = cadena.toLowerCase();
-console.log(cadenaEnMinuscula); 
+console.log(cadenaEnMinuscula);
 ```
 
-**Ejercicio:**
+# Ejercicio:
 
-Genere una variable en la que almacene su nombre y haciendo uso de la funcion toLowerCase conviertalo a minuscula.
+Genere una variable en la que almacene su nombre y haciendo uso de la función toLowerCase conviértalo a minúscula.
