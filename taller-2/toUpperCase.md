@@ -2,10 +2,10 @@
 
 Esta función convierte toda la cadena en mayúsculas. No afecta a ninguno de los caracteres especiales, dígitos y alfabetos que ya están en mayúsculas.
 
-**Sintaxis:** 
+**Sintaxis:**
 
 ```js
-str.toUpperCase ()
+str.toUpperCase();
 ```
 
 **Parámetros**: Esta función no toma ningún argumento.
@@ -15,11 +15,11 @@ str.toUpperCase ()
 **Ejemplo:**
 
 ```js
-var cadena = 'Hoy es IbagueJs'; 
+var cadena = "Hoy es IbaguéJs";
 var cadenaEnMayuscula = cadena.toUpperCase();
-console.log(cadenaEnMayuscula); 
+console.log(cadenaEnMayuscula);
 ```
 
-**Ejercicio:**
+# Ejercicio:
 
-Genere una variable en la que almacene el nombre de su mascota y haciendo uso de la funcion toUpperCase conviertalo a mayusculas.
+Genere una variable en la que almacene el nombre de su mascota y haciendo uso de la función toUpperCase conviértalo a mayúsculas.
