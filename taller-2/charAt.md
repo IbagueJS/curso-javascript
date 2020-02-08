@@ -18,3 +18,7 @@ character = str.charAt(index)
 var str = 'IbagueJs, comunidad Javascript de Ibagué';
 console.log(str.charAt(2)); // a
 ```
+
+**Ejercicio:**
+
+Genere una variable en la que guarde su nombre y haciendo uso de la funcion charAt obtenga el primer Caracter e imprimalo en consola.
