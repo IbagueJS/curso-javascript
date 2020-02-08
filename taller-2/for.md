@@ -2,11 +2,11 @@
 
 La sentencia _for_ crea un bucle que consiste en tres expresiones opcionales, encerradas entre paréntesis y separadas por punto y coma, seguidas de una sentencia (normalmente una sentencia de bloqueo) que se ejecutará en el bucle.
 
-un bucle _for_ se parece a lo siguiente:
+Un bucle _for_ se parece a lo siguiente:
 
 ```js
 for (let contador = 0; contador < 9; contador++) {
-   console.log(contador);
+  console.log(contador);
 }
 ```
 
@@ -14,5 +14,4 @@ La declaración anterior comienza declarando la variable contador e inicializán
 
 ## Ejercicio
 
-Declara un _for_ donde realize 10 veces el bucle pero inicializando el contador en 1, dentro del bucle utiliza `console.log()` para imprimir en la terminal el valor numerico
-
+Declara un _for_ donde realice 10 veces el bucle pero inicializando el contador en 1, dentro del bucle utiliza `console.log()` para imprimir en la terminal el valor numérico
