@@ -19,3 +19,7 @@ var cadena = 'HOY ES IBAGUEJS';
 var cadenaEnMinuscula = cadena.toLowerCase();
 console.log(cadenaEnMinuscula); 
 ```
+
+**Ejercicio:**
+
+Genere una variable en la que almacene su nombre y haciendo uso de la funcion toLowerCase conviertalo a minuscula.
