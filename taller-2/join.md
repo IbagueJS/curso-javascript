@@ -14,6 +14,8 @@ var vengadores = [
 var vengadoresUnidos = vengadores.join();
 ```
 
+_Nota: El arreglo original no es modificado_
+
 ## Ejercicio
 
 Crea un arreglo de frutas y conviértelo en una cadena de caracteres usando como separador _"-"_
