@@ -1,4 +1,4 @@
-# String toLowerCase ()
+# toLowerCase
 
 Esta función convierte toda la cadena en minúsculas. No afecta a ninguno de los caracteres especiales, dígitos y alfabetos que ya están en minúsculas.
 
@@ -20,6 +20,6 @@ var cadenaEnMinuscula = cadena.toLowerCase();
 console.log(cadenaEnMinuscula);
 ```
 
-# Ejercicio:
+## Ejercicio:
 
 Genere una variable en la que almacene su nombre y haciendo uso de la función toLowerCase conviértalo a minúscula.
