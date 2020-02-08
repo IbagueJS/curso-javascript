@@ -5,7 +5,7 @@ Esta función nos sirve para buscar un caracter o conjunto de caracteres especí
 Podríamos buscar la palabra ´Condor´ en una frase.
 ```js
     let frase = "Esta frase es suficiente mente larga, pero no tanto como las alas del Condor de los Andes"
-    letra.indexOf("Condor") //arrojaría la posición 70 
+    frase.indexOf("Condor") //arrojaría la posición 70 
 ```
 O un solo caracter
 

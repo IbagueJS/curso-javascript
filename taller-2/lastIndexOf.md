@@ -4,7 +4,7 @@ De la misma manera que la función anterior `lastIndexOf` nos dice la posición 
 
 ```js
     let recuerdos = "Mi mamá me mima"
-    recuerdos.indexOf("ma") // devolvería la posición 13
+    recuerdos.lastIndexOf("ma") // devolvería la posición 13
 ```
 
 ## Ejercicio
