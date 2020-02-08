@@ -1,4 +1,4 @@
-# Ciclo for of
+# for of
 
 La sentencia _for of_ realiza un bucle a través de los valores de una lista y/o arreglo
 

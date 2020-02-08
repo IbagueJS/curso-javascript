@@ -1,4 +1,4 @@
-# Ciclo for
+# for
 
 La sentencia _for_ crea un bucle que consiste en tres expresiones opcionales, encerradas entre paréntesis y separadas por punto y coma, seguidas de una sentencia (normalmente una sentencia de bloqueo) que se ejecutará en el bucle.
 

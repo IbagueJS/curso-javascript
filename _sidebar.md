@@ -39,10 +39,10 @@
     - push
     - shift
     - unshift
-    - delete
-    - splice
-    - concat
-    - slice
+    - [splice](taller-2/splice.md)
+    - [concat](taller-2/aconcat.md)
+    - [join](taller-2/join.md)
+    - [slice](taller-2/aslice.md)
 
   - Ciclos
 
@@ -51,3 +51,4 @@
     - [for in](taller-2/for-in.md)
     - [for of](taller-2/for-of.md)
     - [while](taller-2/while.md)
+    - [do while](taller-2/do-while.md)
