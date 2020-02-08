@@ -2,7 +2,11 @@
 
 La función str.concat() se usa para unir dos o más cadenas en JavaScript.
 
-**Sintaxis:** str.concat (string2, string3, string4, ......, stringN)
+**Sintaxis:** 
+
+```js
+str.concat (string2, string3, string4, ......, stringN)
+```
 
 **Parámetros:** Los argumentos de esta función son las cadenas que deben unirse. El número de argumentos para esta función es igual al número de cadenas que se unirán.
 

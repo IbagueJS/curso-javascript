@@ -4,7 +4,9 @@ Esta es una función incorporada en JavaScript que se usa para reemplazar una pa
 
 **Sintaxis:**
 
+```js
 str.replace (A, B)
+```
 
 **Parámetros:** aquí el parámetro A es una expresión regular y B es una cadena que reemplazará el contenido de la cadena dada.
 
@@ -14,9 +16,6 @@ str.replace (A, B)
 
 ```js
 var cadena = 'Hola Mundo'; 
-  
 var nuevaCadena = cadena.replace(/Mundo/, 'IbagueJs'); 
-  
-console.log(nuevaCadena); 
-  
+console.log(nuevaCadena);   
 ```

@@ -2,9 +2,11 @@
 
 La función str.trim() se utiliza para eliminar los espacios en blanco de ambos extremos de la cadena dada.
 
-**Sintaxis**
+**Sintaxis:**
 
+```js
 str.trim ()
+```
 
 **Parámetros:** Esta función no toma ningún argumento.
 

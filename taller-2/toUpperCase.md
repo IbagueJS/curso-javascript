@@ -4,7 +4,9 @@ Esta función convierte toda la cadena en mayúsculas. No afecta a ninguno de lo
 
 **Sintaxis:** 
 
+```js
 str.toUpperCase ()
+```
 
 **Parámetros**: Esta función no toma ningún argumento.
 
@@ -14,8 +16,6 @@ str.toUpperCase ()
 
 ```js
 var cadena = 'Hoy es IbagueJs'; 
-  
 var cadenaEnMayuscula = cadena.toUpperCase();
-  
 console.log(cadenaEnMayuscula); 
 ```
