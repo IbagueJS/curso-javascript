@@ -1,4 +1,4 @@
-# String toUpperCase ()
+# toUpperCase
 
 Esta función convierte toda la cadena en mayúsculas. No afecta a ninguno de los caracteres especiales, dígitos y alfabetos que ya están en mayúsculas.
 
@@ -20,6 +20,6 @@ var cadenaEnMayuscula = cadena.toUpperCase();
 console.log(cadenaEnMayuscula);
 ```
 
-# Ejercicio:
+## Ejercicio:
 
 Genere una variable en la que almacene el nombre de su mascota y haciendo uso de la función toUpperCase conviértalo a mayúsculas.

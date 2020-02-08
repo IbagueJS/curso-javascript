@@ -18,14 +18,13 @@
 
   - Strings
 
-    - length
-    - indexOf
-    - lastIndexOf
-    - search
-    - slice
-    - substring
-    - substr
-    - split
+    - [length](taller-2/slength.md)
+    - [indexOf](taller-2/indexOf.md)
+    - [lastIndexOf](taller-2/lastIndexOf.md)
+    - [search](taller-2/search.md)
+    - [slice](taller-2/slice.md)
+    - [substring](taller-2/substring.md)
+    - [split](taller-2/split.md)
     - [replace](taller-2/replace.md)
     - [toUpperCase](taller-2/toUpperCase.md)
     - [toLowerCase](taller-2/toLowerCase.md)
@@ -33,22 +32,22 @@
     - [trim](taller-2/trim.md)
     - [charAt](taller-2/charAt.md)
 
-- Array
+  - Array
 
-  - length
-  - pop
-  - push
-  - shift
-  - unshift
-  - delete
-  - splice
-  - concat
-  - slice
+    - length
+    - pop
+    - push
+    - shift
+    - unshift
+    - delete
+    - splice
+    - concat
+    - slice
 
-- Ciclos
+  - Ciclos
 
-  - [for](taller-2/for.md)
-  - forEach
-  - [for in](taller-2/for-in.md)
-  - [for of](taller-2/for-of.md)
-  - while
+    - [for](taller-2/for.md)
+    - [forEach](taller-2/for-each.md)
+    - [for in](taller-2/for-in.md)
+    - [for of](taller-2/for-of.md)
+    - [while](taller-2/while.md)

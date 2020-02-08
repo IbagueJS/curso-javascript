@@ -1,4 +1,4 @@
-# String trim()
+# trim
 
 La función str.trim() se utiliza para eliminar los espacios en blanco de ambos extremos de la cadena dada.
 
@@ -20,6 +20,6 @@ var st = str.trim();
 console.log(st);
 ```
 
-# Ejercicio:
+## Ejercicio:
 
 Genere una variable en la que almacene una contraseña (👀 no tu contraseña real, es solo un ejemplo), intencionalmente agregue algunos espacios en blanco al inicio y al final de la cadena, y haciendo uso de la función trim elimina dichos espacios en blanco, confirme que funciona imprimiendo el resultado en consola.

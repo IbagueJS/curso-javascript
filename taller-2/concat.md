@@ -1,4 +1,4 @@
-# String concat ()
+# concat
 
 La función str.concat() se usa para unir dos o más cadenas en JavaScript.
 
@@ -20,7 +20,7 @@ console.log("Hoy ".concat("es ", "Ibagué", "JS"));
 
 _Nótese en el ejemplo anterior que al final de las cadenas 'hoy ' y 'es ', hemos agregado un espacio en blanco, esto es para que cuando este unida la cadena estos espacios formen una frase con separaciones y no todo seguido._
 
-# Ejercicio:
+## Ejercicio:
 
 Genere dos variables de en las que almacene dos cadenas de texto y haciendo uso de la función concat haga una unión e imprímala en consola.
 

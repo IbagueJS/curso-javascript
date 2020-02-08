@@ -1,4 +1,4 @@
-# String replace ()
+# replace
 
 Esta es una función incorporada en JavaScript que se usa para reemplazar una parte de la cadena dada con alguna otra cadena o una expresión regular. La cadena original permanecerá sin cambios.
 
@@ -20,6 +20,6 @@ var nuevaCadena = cadena.replace(/Mundo/, "IbaguéJs");
 console.log(nuevaCadena);
 ```
 
-# Ejercicio
+## Ejercicio
 
 Genere una variable en la que guarde el número uno en letras y haciendo uso de la función replace, reemplace este texto por el número 1.

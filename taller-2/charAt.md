@@ -1,4 +1,4 @@
-# String charAt ()
+# charAt
 
 Devuelve el carácter en el índice de cadena dado.
 
@@ -19,6 +19,6 @@ var str = "IbaguéJS, comunidad JavaScript de Ibagué";
 console.log(str.charAt(2)); // a
 ```
 
-# Ejercicio
+## Ejercicio
 
 Genere una variable en la que guarde su nombre y haciendo uso de la función charAt obtenga el primer caracter e imprímalo en consola.
