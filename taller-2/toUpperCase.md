@@ -19,3 +19,7 @@ var cadena = 'Hoy es IbagueJs';
 var cadenaEnMayuscula = cadena.toUpperCase();
 console.log(cadenaEnMayuscula); 
 ```
+
+**Ejercicio:**
+
+Genere una variable en la que almacene el nombre de su mascota y haciendo uso de la funcion toUpperCase conviertalo a mayusculas.
