@@ -4,7 +4,7 @@ Los `String` o cadenas de texto, son demasiado comunes en JavaScript y en la pro
 
 
 
-## Length
+## length
 
 Supongamos que en un formulario de registro de usuarios, queremos validar si el nombre de usuario escogido cumple ciertas caracteristicas, entre las cuales está, que tenga una longitud de al menos 5 caracteres, un usuario podría escoger cualquier nombre como el del siguiente ejemplo:
 
