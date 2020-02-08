@@ -14,12 +14,12 @@ aprenderemos sobre:
   - substring
   - substr
   - split
-  - replace
-  - toUpperCase
-  - toLowerCase
-  - concat
-  - trim
-  - charAt
+  - [replace](taller-2/replace.md)
+  - [toUpperCase](taller-2/toUpperCase.md)
+  - [toLowerCase](taller-2/toLowerCase.md)
+  - [concat](taller-2/concat.md)
+  - [trim](taller-2/trim.md)
+  - [charAt](taller-2/charAt.md)
 - Array
   - length
   - pop
