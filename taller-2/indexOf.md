@@ -24,3 +24,7 @@ Te preguntarás que sucede en otras situaciones, como que los caracteres buscado
     recuerdos.indexOf("Ma") // devolvería -1
 ```
 
+## Ejercicio
+
+Declara la variable llamada 'Abecedario' y almacena las letras del abecedario, luego muestra en pantalla la posición que ocupan las letras 't', 'm' y 'w'
+

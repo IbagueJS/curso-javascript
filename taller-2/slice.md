@@ -10,3 +10,6 @@ Es una función muy útil, cuando queremos sacar una parte de un `String`, por e
     
 ```
 
+## Ejercicio
+
+Almacena en una variable un refrán que conozcas, luego muestra en pantalla las últimas 5 letras del refrán.
