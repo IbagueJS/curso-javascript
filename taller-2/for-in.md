@@ -1,4 +1,4 @@
-# Ciclo for in
+# for in
 
 La sentencia _for in_ realiza un bucle a través de las llaves de un objeto {nombre: 'juan', edad: 22, comunidad:'IbaguéJS' }_ donde
 nombre es la llave y el _'juan'\_ es el valor
