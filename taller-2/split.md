@@ -27,3 +27,6 @@ Para poder tratar esa información y llevarla a un arreglo o listado de datos us
 
     
 ```
+## Ejercicio
+
+Usando las variable 'animales' del ejemplo anterior, usa la función `split` pero usando el caracter `a` como separador, muestra en pantalla el resultado en la cada una de las posiciones generadas.

@@ -17,4 +17,8 @@ La propiedad `length` nos permite conocer el tamaño o longitud del `String` en 
     }
 ```
 
+## Ejercicio
+
+Crea dos variables y almacena tu nombre y el de un compañero, luego imprime en pantalla el nombre con mayor cantidad de caracteres. (Recuerda usar el condicional `if`)
+
 

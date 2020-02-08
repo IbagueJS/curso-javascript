@@ -3,3 +3,6 @@
 
 
 
+## Ejercicio
+
+Crea en una variable, el nombre completo de tu artista favorito, luego separa esa variable en dos justo por la mitad, (recuerda usar la propiedad `length`), después muestra en pantalla los últimos 3 caracteres de la primer mitad del nombre.
