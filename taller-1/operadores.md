@@ -284,6 +284,11 @@ var resultadoLogico = (var1 > var2 || var2 >= 5) && !(var1 == 3 || var2 != 8);
 
 Más adelante podremos profundizar en otros operadores y algunos `trucos` al usar operadores.
 
-## Ejercicio
+## Ejercicios
 
-TBD
+Declara dos variables asignandoles un número a cada una, luego en una tercer variable almacena el valor de comparar si la primer variable es menor que la segunda.
+
+Usando las mismas variables, realiza las 4 operaciones básicas entre ellas y muestralas en consola.
+
+A la segunda variable que usaste usa el operador de incremento, 2 veces y muestra el valor en consola.
+
