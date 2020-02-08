@@ -49,4 +49,5 @@ Nota que empieza con la palabra reservada `let` y usa el signo de igualdad entre
 
 ## Ejercicio
 
-TBD
+Declara una variable donde almacenes tu nombre, e imprimilo en pantalla, después modifica la variable para que almacene el nombre de tu compañero y muestralo en pantalla nuevamente.
+Crea otras variables para guardar tu edad, profesión y hobbie.
