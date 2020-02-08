@@ -19,3 +19,7 @@ var cadena = 'Hola Mundo';
 var nuevaCadena = cadena.replace(/Mundo/, 'IbagueJs'); 
 console.log(nuevaCadena);   
 ```
+
+**Ejercicio:**
+
+Genere una variable en la que guarde el numero uno en letras y haciendo uso de la funcion replace, reemplace este texto por el numero 1.
