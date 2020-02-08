@@ -17,3 +17,10 @@ str.concat (string2, string3, string4, ......, stringN)
 ```js
 console.log ('Hoy '.concat ('es ','Ibague','Js'));
 ```
+_Notese en el ejemplo anterior que al final de las cadenas 'hoy ' y  'es ', hemos agregado un espacio en blanco, esto es para que cuando este unida la cadena estos espacios formen una frase con separaciones y no todo seguido._
+
+**Ejercicio:**
+
+Genere dos variables de en las que almacene dos cadenas de texto y haciendo uso de la funcion concat haga una union e imprimala en consola.
+
+_(Nota: tenga en cuenta que los espacios en blanco)_
