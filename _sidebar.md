@@ -34,11 +34,11 @@
 
   - Array
 
-    - length
-    - pop
-    - push
-    - shift
-    - unshift
+    - [length](taller-2/alength.md)
+    - [pop](taller-2/pop.md)
+    - [push](taller-2/push.md)
+    - [shift](taller-2/shift.md)
+    - [unshift](taller-2/unshift.md)
     - [splice](taller-2/splice.md)
     - [concat](taller-2/aconcat.md)
     - [join](taller-2/join.md)
